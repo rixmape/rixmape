@@ -2,9 +2,6 @@
 
 I'm an academic working in **natural language processing**, **computer vision**, and **robotics**. My research centers on building trustworthy AI systems by revealing how they work internally.
 
-<details>
-<summary>Read More</summary>
-
 ### 🔭 Focus
 
 Right now, I'm exploring interpretability for embodied intelligence. I ask questions like: How do physical agents perceive and interact with their environment? What mechanisms drive their decision making?
@@ -87,5 +84,3 @@ Some of my key projects include:
 ### 🧑‍🏫 Academe
 
 My goal is to equip students with skills essential for a successful career in computing. I am open to inquiries about my research and welcome opportunities to collaborate on new projects.
-
-</details>
