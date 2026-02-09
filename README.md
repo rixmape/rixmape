@@ -80,7 +80,3 @@ Some of my key projects include:
     </tr>
   </tbody>
 </table>
-
-### 🧑‍🏫 Academe
-
-My goal is to equip students with skills essential for a successful career in computing. I am open to inquiries about my research and welcome opportunities to collaborate on new projects.
